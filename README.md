@@ -1,8 +1,7 @@
-Requirements
+Condition requise
 • Python 2.x
 
-Installation and Using Lazymux
-git clone https://github.com/Gameye98/Lazymux
+Installation et utilisation de lazymux git clone https://github.com/Gameye98/Lazymux
 
 cd Lazymux
 
